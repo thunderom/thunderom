@@ -2,20 +2,20 @@
 
 [![HitCount](https://komarev.com/ghpvc/?username=thunderom&label=Profile%20views&color=0061C6&style=flat)](https://github.com/thunderom)
 
+![Header](img/header.jpg)
 
        Hey, I am Roman Grand,
-       QA Engineer
-       
+       QA Engineer       
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/thunderom/thunderom/main/img/QAT.png"/>
 
 
-  <img src="steck/wave.gif" width="30px">
+<img src="img/Waving-Hand.png" width="40px">
   
   
-- 🌱 I’m working now in ~~~ (QA)
+- 🌱 I’m studing now in QA.Studio
 
-- 💞️ I’m currently learning QA Automation
+- 💞️ I’m currently learning basic QA Automation
 
 <br>
 
@@ -31,9 +31,19 @@
 
 <br>
 
-# Technology stack 💻
+# My Skills and Tools 💻
 
-<br>
+## Main
+<div>
+  <img src="img/Eyes.png" title="My eyes" alt="My eyes" width="40px" height="40px"/>&nbsp
+  <img src="img/Brain.png" title="My brain" alt="My brain" width="40px" height="40px"/>&nbsp
+</div>
+
+## Task Trackers
+<div>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/thunderom/thunderom/39dcf41eb3b9ca3a4fa6679243e686c49f686206/img/jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
+</div>
 
 ## Logs
 <div>
@@ -53,13 +63,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp
 </div>
 
-## Task Trackers
-<div>
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/thunderom/thunderom/39dcf41eb3b9ca3a4fa6679243e686c49f686206/img/jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
-</div>
-
-## Тестирование API и интеграций
+## Integration Testing & API
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST" alt="REST" width="40" height="40"/>&nbsp
@@ -79,11 +83,6 @@
   <img src="https://raw.githubusercontent.com/thunderom/thunderom/main/img/charles-proxy.png" title="Charles" alt="Charles" width="40" height="40"/>&nbsp
 </div>
 
-## Логи и мониторинги
-<div>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
-</div>
-
 ## Testing Documentation 
   <div>
     <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test IT" alt="Test IT" width="40" height="40"/>&nbsp
@@ -91,26 +90,30 @@
     <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
   </div>
 
-## Автотесты
+## Autotests
 <div>
   <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
+</div>
+
+## Common
+<div>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/thunderom/thunderom/444eb398645be572c6da37477d43dff6bad3899b/img/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
 
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
+<br>
 
-# Contact me <img src='https://raw.githubusercontent.com/thunderom/thunderom/main/img/hands.png' width="50px" height=50px>
+<div>
+  <img src="img/line.gif" title="Visual Studio Code" alt="Visual Studio Code" width="4000"/>&nbsp
+</div>
+
+# Contact me <img src='https://raw.githubusercontent.com/thunderom/thunderom/main/img/hands.png' width="40px" height=40px>
 
 <br>
 
-[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:grand@internet.ru)[<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/thunderom)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/r_grand)
-
-
-###
-
-
-
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/r_grand)[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://gromqa.ru)[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gromqa)

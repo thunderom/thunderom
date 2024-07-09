@@ -1,13 +1,13 @@
 
 
-[![HitCount](https://komarev.com/ghpvc/?username=thunderom&label=Profile%20views&color=60dae2&style=flat)](https://github.com/thunderom)
+[![HitCount](https://komarev.com/ghpvc/?username=thunderom&label=Profile%20views&color=0061C6&style=flat)](https://github.com/thunderom)
 
 
        Hey, I am Roman Grand,
        QA Engineer
        
 
-<img align="right" width="350" src="https://edatainsight.com/wp-content/uploads/2020/11/xSAP-Quality-Assurance-Testing.png"/>
+<img align="right" width="350" src="https://raw.githubusercontent.com/thunderom/thunderom/main/xSAP-Quality-Assurance-Testing.png"/>
 
 
   <img src="steck/wave.gif" width="30px">

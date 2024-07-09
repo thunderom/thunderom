@@ -23,12 +23,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=thunderom&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=thunderom&theme=tokyonight)
-
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?&theme=github-dark&username=thunderom)
-
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>
@@ -36,6 +34,14 @@
 # Technology stack 💻
 
 <br>
+
+## Logs
+<div>
+  <img src="https://raw.githubusercontent.com/thunderom/thunderom/5ef57e7be1f6e2b91d3ea24164021033b1094669/img/kibana.svg" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/thunderom/thunderom/5ef57e7be1f6e2b91d3ea24164021033b1094669/img/grafana.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp  
+  <img src="https://raw.githubusercontent.com/thunderom/thunderom/5ef57e7be1f6e2b91d3ea24164021033b1094669/img/sentry.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/thunderom/thunderom/main/img/yandex_metrika.png" title="Yandex.Metrika" alt="Yandex.Metrika" width="40" height="40"/>&nbsp
+</div>
 
 ## Тестирование API и интеграций
 <div>

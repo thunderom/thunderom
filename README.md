@@ -21,8 +21,8 @@
 
 # Stats 📊
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=stars,issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=thunderom&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?card_width=320&username=thunderom&langs_count=4&layout=compact&theme=github_dark)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=stars,issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=330&username=thunderom&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?card_width=330&username=thunderom&langs_count=4&layout=compact&theme=github_dark)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=4&hide_progress=true&username=thunderom&theme=tokyonight) -->
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 

@@ -13,9 +13,11 @@
 <img src="img/Waving-Hand.png" width="40px">
   
   
-- 🌱 I’m studing now in QA.Studio
+- 🌱 I finished studies at <a href="https://qa.studio/" style="color: inherit; text-decoration: none;">QA.Studio</a>
 
-- 💞️ I’m currently learning basic QA Automation
+- 💞️ I’m currently learning QA Automation
+
+- 👣 My credo: Aut viam inveniam, aut faciam
 
 <br>
 
@@ -44,6 +46,7 @@
 <div>
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/thunderom/thunderom/39dcf41eb3b9ca3a4fa6679243e686c49f686206/img/jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
+  <img src="img/clickup.svg" title="ClickUp" alt="ClickUp" width="40" height="40"/>&nbsp
 </div>
 
 ## Logs
@@ -52,7 +55,9 @@
   <img src="https://raw.githubusercontent.com/thunderom/thunderom/5ef57e7be1f6e2b91d3ea24164021033b1094669/img/grafana.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/thunderom/thunderom/5ef57e7be1f6e2b91d3ea24164021033b1094669/img/sentry.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/thunderom/thunderom/main/img/yandex_metrika.png" title="Yandex.Metrika" alt="Yandex.Metrika" width="40" height="40"/>&nbsp
+  <!--
   <img src="https://avatars.githubusercontent.com/u/28545596?s=200&v=4" title="Jaeger" alt="Jaeger" width="40" height="40"/>&nbsp
+  -->
 </div>
 
 ## Databases

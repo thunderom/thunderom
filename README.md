@@ -17,7 +17,7 @@
 
 - 💞️ Now, I’m learning basic of QA Automation
 
-- 👣 My credo: Aut viam inveniam, aut faciam
+- 👣 My credo is "Aut viam inveniam, aut faciam"
 
 <br>
 

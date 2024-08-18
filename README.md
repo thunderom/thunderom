@@ -13,9 +13,9 @@
 <img src="img/Waving-Hand.png" width="40px">
   
   
-- 🌱 I finished studies at <a href="https://qa.studio/" style="color: inherit; text-decoration: none;">QA.Studio</a>
+- 🌱 I completed self-study based on the course materials from <a href="https://qa.studio/" style="color: inherit; text-decoration: none;">QA.Studio</a>
 
-- 💞️ I’m currently learning QA Automation
+- 💞️ Now, I’m learning basic of QA Automation
 
 - 👣 My credo: Aut viam inveniam, aut faciam
 
